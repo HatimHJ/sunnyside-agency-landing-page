@@ -1,0 +1,22 @@
+body{
+  font-family: 'Barlow', sans-serif;
+  font-weight: 600
+}
+.fraunces{
+  font-family: 'Fraunces', serif;
+
+}
+
+.sr-only{
+  position: absolute;
+  top: 10rem;
+  left: 10rem;
+  width: 1px;height: 1px
+}
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
