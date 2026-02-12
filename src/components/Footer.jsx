@@ -16,7 +16,7 @@ export default function Footer() {
           <li><a href=""> <img src={pinterest} alt="" /> </a></li>
           <li><a href=""> <img src={twitter} alt="" /> </a></li>
         </ul>
-        <p> موقع <a href="https://ksa.coupons>كوبونات السعودية</a> </p>
+        <p> موقع <a href="https://ksa.coupons">كوبونات السعودية</a> </p>
       </div>
     </footer>
   )
